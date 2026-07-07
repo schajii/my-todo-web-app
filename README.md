@@ -2,6 +2,8 @@
 
 A simple browser-based todo app built with [Streamlit](https://streamlit.io/). Add items, check them off to complete, and your list persists in a plain text file.
 
+**Live app:** [my-todo-web-app-test.streamlit.app](https://my-todo-web-app-test.streamlit.app)
+
 ## Features
 
 - Add todos from a text input
@@ -54,6 +56,10 @@ uv pip freeze > requirements.txt
 ```
 
 ### Streamlit Community Cloud
+
+The app is deployed at [my-todo-web-app-test.streamlit.app](https://my-todo-web-app-test.streamlit.app).
+
+To deploy or redeploy:
 
 1. Push this repository to GitHub.
 2. Go to [share.streamlit.io](https://share.streamlit.io) and connect your repo.
